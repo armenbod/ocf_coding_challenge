@@ -1,0 +1,5 @@
+holidays==0.38
+nbformat==5.9.2
+plotly==5.18.0
+pytorch-lightning==2.1.2
+tensorboard==2.15.1
